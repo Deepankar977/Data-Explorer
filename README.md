@@ -40,3 +40,8 @@ Ensure you have Python 3.8+ installed.
 1. Clone the repository:  
 ```bash
 git clone https://github.com/Deepankar977/Data-Explorer
+```
+2. Required modules to install:
+```bash
+pip install -r requirements.txt
+```
